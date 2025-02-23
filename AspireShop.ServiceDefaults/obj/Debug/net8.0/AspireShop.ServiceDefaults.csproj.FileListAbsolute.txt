@@ -1,0 +1,13 @@
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.ServiceDefaults\bin\Debug\net8.0\AspireShop.ServiceDefaults.deps.json
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.ServiceDefaults\bin\Debug\net8.0\AspireShop.ServiceDefaults.dll
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.ServiceDefaults\bin\Debug\net8.0\AspireShop.ServiceDefaults.pdb
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.ServiceDefaults\obj\Debug\net8.0\AspireShop.ServiceDefaults.csproj.AssemblyReference.cache
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.ServiceDefaults\obj\Debug\net8.0\AspireShop.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.ServiceDefaults\obj\Debug\net8.0\AspireShop.ServiceDefaults.AssemblyInfoInputs.cache
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.ServiceDefaults\obj\Debug\net8.0\AspireShop.ServiceDefaults.AssemblyInfo.cs
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.ServiceDefaults\obj\Debug\net8.0\AspireShop.ServiceDefaults.csproj.CoreCompileInputs.cache
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.ServiceDefaults\obj\Debug\net8.0\AspireShop.ServiceDefaults.sourcelink.json
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.ServiceDefaults\obj\Debug\net8.0\AspireShop.ServiceDefaults.dll
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.ServiceDefaults\obj\Debug\net8.0\refint\AspireShop.ServiceDefaults.dll
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.ServiceDefaults\obj\Debug\net8.0\AspireShop.ServiceDefaults.pdb
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.ServiceDefaults\obj\Debug\net8.0\ref\AspireShop.ServiceDefaults.dll

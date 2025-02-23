@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "RlVJ29lp3trEUtpQhg+8kU9Ja11pB9/PG5mpsQ3Cf5k=",
+  "Source": "AspireShop.Frontend",
+  "BasePath": "_content/AspireShop.Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspireShop.Frontend\\wwwroot",
+      "Source": "AspireShop.Frontend",
+      "ContentRoot": "C:\\Users\\ak785\\source\\repos\\aspire-samples\\samples\\AspireShop\\AspireShop.Frontend\\wwwroot\\",
+      "BasePath": "_content/AspireShop.Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ak785\\source\\repos\\aspire-samples\\samples\\AspireShop\\AspireShop.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AspireShop.Frontend.styles.css",
+      "SourceId": "AspireShop.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ak785\\source\\repos\\aspire-samples\\samples\\AspireShop\\AspireShop.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/AspireShop.Frontend",
+      "RelativePath": "AspireShop.Frontend.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ak785\\source\\repos\\aspire-samples\\samples\\AspireShop\\AspireShop.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AspireShop.Frontend.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\ak785\\source\\repos\\aspire-samples\\samples\\AspireShop\\AspireShop.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspireShop.Frontend.bundle.scp.css",
+      "SourceId": "AspireShop.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ak785\\source\\repos\\aspire-samples\\samples\\AspireShop\\AspireShop.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/AspireShop.Frontend",
+      "RelativePath": "AspireShop.Frontend.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ak785\\source\\repos\\aspire-samples\\samples\\AspireShop\\AspireShop.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AspireShop.Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ak785\\source\\repos\\aspire-samples\\samples\\AspireShop\\AspireShop.Frontend\\wwwroot\\site.css",
+      "SourceId": "AspireShop.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ak785\\source\\repos\\aspire-samples\\samples\\AspireShop\\AspireShop.Frontend\\wwwroot\\",
+      "BasePath": "_content/AspireShop.Frontend",
+      "RelativePath": "site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\site.css"
+    }
+  ]
+}

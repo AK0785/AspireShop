@@ -1,0 +1,13 @@
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.CatalogDb\bin\Debug\net8.0\AspireShop.CatalogDb.deps.json
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.CatalogDb\bin\Debug\net8.0\AspireShop.CatalogDb.dll
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.CatalogDb\bin\Debug\net8.0\AspireShop.CatalogDb.pdb
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.CatalogDb\obj\Debug\net8.0\AspireShop.CatalogDb.csproj.AssemblyReference.cache
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.CatalogDb\obj\Debug\net8.0\AspireShop.CatalogDb.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.CatalogDb\obj\Debug\net8.0\AspireShop.CatalogDb.AssemblyInfoInputs.cache
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.CatalogDb\obj\Debug\net8.0\AspireShop.CatalogDb.AssemblyInfo.cs
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.CatalogDb\obj\Debug\net8.0\AspireShop.CatalogDb.csproj.CoreCompileInputs.cache
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.CatalogDb\obj\Debug\net8.0\AspireShop.CatalogDb.sourcelink.json
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.CatalogDb\obj\Debug\net8.0\AspireShop.CatalogDb.dll
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.CatalogDb\obj\Debug\net8.0\refint\AspireShop.CatalogDb.dll
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.CatalogDb\obj\Debug\net8.0\AspireShop.CatalogDb.pdb
+c:\Users\ak785\source\repos\aspire-samples\samples\AspireShop\AspireShop.CatalogDb\obj\Debug\net8.0\ref\AspireShop.CatalogDb.dll
